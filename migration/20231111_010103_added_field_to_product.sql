@@ -1,0 +1,1 @@
+ALTER TABLE product ADD COLUMN p_avail INT DEFAULT 0;

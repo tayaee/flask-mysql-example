@@ -1,0 +1,8 @@
+{
+  "pool_size": 5,
+  "host": "mysql",
+  "port": 3306,
+  "user": "test",
+  "password": "test",
+  "database": "test"
+}
